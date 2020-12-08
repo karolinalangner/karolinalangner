@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is Karolina</h1>
-<h3 align="center">I currently graduated from a fullstack Web Development bootcamp at Le Wagon</h3>
+<h3 align="center">I recently graduated from a fullstack Web Development bootcamp at Le Wagon</h3>
 
 - 🌱 I’m currently learning **JavaScript & react**
 
