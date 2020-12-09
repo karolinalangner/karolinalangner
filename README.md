@@ -1,5 +1,5 @@
 <h1 align="center">🐱‍🐉 Hi! My name is Karolina</h1>
-<h3 align="center">I recently graduated from a fullstack Web Development bootcamp at <a href="https://github.com/lewagon" target="_blank"> <img src="https://dwj199mwkel52.cloudfront.net/assets/core/svg/logo-lewagon-d3ef4212222c0b4116443049e84e03a45790419f2e3141677d4af8522b59404e.svg" alt="le wagon logo" width="40" height="40"/> </a></h3>
+<h3 align="center">I recently graduated from a fullstack Web Development bootcamp at <a href="https://github.com/lewagon" target="_blank"> <img src="https://dwj199mwkel52.cloudfront.net/assets/core/svg/logo-lewagon-d3ef4212222c0b4116443049e84e03a45790419f2e3141677d4af8522b59404e.svg" alt="le wagon logo" width="154" height="48"/> </a></h3>
 
 - 🌱 I’m currently learning **JavaScript & react**
 
